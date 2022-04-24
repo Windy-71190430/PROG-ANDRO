@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mypager" type="id">100000</item>
+    <item name="mytoolbar" type="id">1000001</item>
+</resources>
